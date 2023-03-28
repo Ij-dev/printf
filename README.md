@@ -143,4 +143,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ---
 # Author: 
-[Elijah Bayere](https://github.com/olittobee) and [Omoghene Omoghene](https://github.com/GodsonO)
+[Nwachukwu Ijeoma](https://github.com/Ij-dev)
